@@ -1,3 +1,6 @@
-def parrot(call)
+def parrot
   puts "Squawk!"
-  print 
+  "Squawk!"
+end
+
+parrot
